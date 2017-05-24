@@ -3,11 +3,11 @@ Python script that takes a list of ips and will preform reverse lookup to resolv
 
 Wrote this to ensure all networking devices have correct reserse lookups populated in DNS
 
---Future--
--Integrate w/ HPNA (pull list of active devices)
--Ping hosts with no reverse records to see if alive
--Check for forward DNS records aswell
--email nicely formatted output on completion so i can make a cron job to run this monthly 
+--Future--  
+-Integrate w/ HPNA (pull list of active devices)  
+-Ping hosts with no reverse records to see if alive  
+-Check for forward DNS records aswell  
+-email nicely formatted output on completion so i can make a cron job to run this monthly  
 
 
 
