@@ -1,5 +1,5 @@
 # DNS-Audit
-Python script that takes a list of ips and will preform reverse lookup to resolve hostnames.
+Python script that takes a list of ips and will perform reverse lookup to resolve hostnames.
 
 Wrote this to ensure all networking devices have correct reserse lookups populated in DNS
 
