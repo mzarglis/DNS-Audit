@@ -1,7 +1,7 @@
 # DNS-Audit
 Python script that takes a list of ips and will perform reverse lookup to resolve hostnames.
 
-Wrote this to ensure all networking devices have correct reserse lookups populated in DNS
+Wrote this to audit all our networked devices have correct reverse lookups populated in DNS
 
 --Future--  
 -Integrate w/ HPNA (pull list of active devices)  
