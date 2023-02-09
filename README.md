@@ -18,5 +18,5 @@ Wrote this to audit all our networked devices have correct reverse lookups popul
 
 DNS-Audit.py [iplist] [nameserver ip]
 
-iplist should be a file with ips 1 per line
+iplist should be a file with IPs (1 per line)
 depends on dnspython package (pip install dnspython)
